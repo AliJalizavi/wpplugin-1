@@ -14,7 +14,7 @@ Author URI: http://ma.tt/
 
 
 if ( ! defined('WPINC') ){
-    die("no way!");
+    die("no way!!!");
 }
 
 function wpplugin_settings_page()
